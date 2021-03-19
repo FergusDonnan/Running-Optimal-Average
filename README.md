@@ -4,7 +4,11 @@ Usage:
 
 t, model, errs, P = RunningOptimalAverage(t_data, Flux, Flux_err, delta)
 
-Calculate running optimal average on a fine grid. Also returns errors and effective number of parameters
+Calculate running optimal average on a fine grid. Also returns errors and effective number of parameters.
+
+Import using:
+
+from ROA import RunningOptimalAverage
 
 Parameters
 ----------
