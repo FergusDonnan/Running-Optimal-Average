@@ -7,6 +7,14 @@ a rigid model (low delta) has a low effective no. of parameters.
 
 An error envelope is also calculated for the model.
 
+## Installation
+
+install using pip:
+pip install ROA
+
+
+
+
 
 ## Usage:
 
